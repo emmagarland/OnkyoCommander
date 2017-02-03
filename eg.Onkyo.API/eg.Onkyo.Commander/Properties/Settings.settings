@@ -1,0 +1,255 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="eg.Onkyo.API.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60128</Value>
+    </Setting>
+    <Setting Name="Timeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="Poweroff" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PWR00</Value>
+    </Setting>
+    <Setting Name="Poweron" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PWR01</Value>
+    </Setting>
+    <Setting Name="Stereo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD00</Value>
+    </Setting>
+    <Setting Name="Direct" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD01</Value>
+    </Setting>
+    <Setting Name="Surround" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD02</Value>
+    </Setting>
+    <Setting Name="Film" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD03</Value>
+    </Setting>
+    <Setting Name="THX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD04</Value>
+    </Setting>
+    <Setting Name="Action" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD05</Value>
+    </Setting>
+    <Setting Name="Musical" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD06</Value>
+    </Setting>
+    <Setting Name="Orchestra" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD08</Value>
+    </Setting>
+    <Setting Name="Unplugged" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD09</Value>
+    </Setting>
+    <Setting Name="Mono" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD0F</Value>
+    </Setting>
+    <Setting Name="Multiplex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD12</Value>
+    </Setting>
+    <Setting Name="MusicMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD51</Value>
+    </Setting>
+    <Setting Name="Video6Input" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI05</Value>
+    </Setting>
+    <Setting Name="Video7Input" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI06</Value>
+    </Setting>
+    <Setting Name="DVDInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI10</Value>
+    </Setting>
+    <Setting Name="Tape2Input" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI21</Value>
+    </Setting>
+    <Setting Name="PhonoInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI22</Value>
+    </Setting>
+    <Setting Name="FMInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI24</Value>
+    </Setting>
+    <Setting Name="AMInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI25</Value>
+    </Setting>
+    <Setting Name="TunerInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI26</Value>
+    </Setting>
+    <Setting Name="USBInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI29</Value>
+    </Setting>
+    <Setting Name="AudioMutingOff" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AMT00</Value>
+    </Setting>
+    <Setting Name="AudioMutingOn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AMT01</Value>
+    </Setting>
+    <Setting Name="SpeakerAOff" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SPA00</Value>
+    </Setting>
+    <Setting Name="SpeakerAOn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SPA01</Value>
+    </Setting>
+    <Setting Name="SpeakerBOff" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SPB00</Value>
+    </Setting>
+    <Setting Name="SpeakerBOn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SPB01</Value>
+    </Setting>
+    <Setting Name="MonoMovie" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD07</Value>
+    </Setting>
+    <Setting Name="StudioMix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD0A</Value>
+    </Setting>
+    <Setting Name="TVLogic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD0B</Value>
+    </Setting>
+    <Setting Name="AllCHStereo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD0C</Value>
+    </Setting>
+    <Setting Name="TheaterDimensional" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD0D</Value>
+    </Setting>
+    <Setting Name="Enhanced7Enhance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD0E</Value>
+    </Setting>
+    <Setting Name="PureAudio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD11</Value>
+    </Setting>
+    <Setting Name="FullMono" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD13</Value>
+    </Setting>
+    <Setting Name="DolbyVirtual" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD14</Value>
+    </Setting>
+    <Setting Name="StraightDecode1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD40</Value>
+    </Setting>
+    <Setting Name="DolbyEXDTSES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD41</Value>
+    </Setting>
+    <Setting Name="DolbyEX2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD41</Value>
+    </Setting>
+    <Setting Name="THXCinema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD42</Value>
+    </Setting>
+    <Setting Name="THXSurroundEX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD43</Value>
+    </Setting>
+    <Setting Name="U2S2CinemaCinema2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD50</Value>
+    </Setting>
+    <Setting Name="GamesMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD52</Value>
+    </Setting>
+    <Setting Name="PLIIPLIIxMovie" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD80</Value>
+    </Setting>
+    <Setting Name="PLIIPLIIxMusic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD81</Value>
+    </Setting>
+    <Setting Name="Neo6Cinema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD82</Value>
+    </Setting>
+    <Setting Name="Neo6Music" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD83</Value>
+    </Setting>
+    <Setting Name="PLIIPLIIxTHXCinema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD84</Value>
+    </Setting>
+    <Setting Name="Neo6THXCinema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD85</Value>
+    </Setting>
+    <Setting Name="PLIIPLIIxGame" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD86</Value>
+    </Setting>
+    <Setting Name="NeuralSurr3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD87</Value>
+    </Setting>
+    <Setting Name="NeuralTHX" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD88</Value>
+    </Setting>
+    <Setting Name="PLIITHXGames" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD89</Value>
+    </Setting>
+    <Setting Name="Neo6THXGames" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMD8A</Value>
+    </Setting>
+    <Setting Name="ListeningModeWrapAroundUp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMDUP</Value>
+    </Setting>
+    <Setting Name="ListeningModeWrapAroundDown" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LMDDOWN</Value>
+    </Setting>
+    <Setting Name="IPAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.16</Value>
+    </Setting>
+    <Setting Name="SurroundBack" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SPLSB</Value>
+    </Setting>
+    <Setting Name="FrontHigh" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SPLFH</Value>
+    </Setting>
+    <Setting Name="FrontWide" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SPLFW</Value>
+    </Setting>
+    <Setting Name="MasterVolumeUp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MVLUP</Value>
+    </Setting>
+    <Setting Name="MasterVolumeDown" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MVLDOWN</Value>
+    </Setting>
+    <Setting Name="MasterVolumeUp1dB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MVLUP1</Value>
+    </Setting>
+    <Setting Name="MasterVolumeDown1dB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MVLDOWN1</Value>
+    </Setting>
+    <Setting Name="Video1VCRDVRInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI00</Value>
+    </Setting>
+    <Setting Name="Video2CblSatInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI01</Value>
+    </Setting>
+    <Setting Name="Video3GameTVInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI02</Value>
+    </Setting>
+    <Setting Name="Video4AUX1AUXInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI03</Value>
+    </Setting>
+    <Setting Name="Video5AUX2Input" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI04</Value>
+    </Setting>
+    <Setting Name="Tape1TVTapeInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI20</Value>
+    </Setting>
+    <Setting Name="CDInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI23</Value>
+    </Setting>
+    <Setting Name="MusicServerInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI27</Value>
+    </Setting>
+    <Setting Name="InternetRadioInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI28</Value>
+    </Setting>
+    <Setting Name="USBRearInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI2A</Value>
+    </Setting>
+    <Setting Name="UniversalPortInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI40</Value>
+    </Setting>
+    <Setting Name="MultiChInput" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI30</Value>
+    </Setting>
+    <Setting Name="XM1Input" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI31</Value>
+    </Setting>
+    <Setting Name="Sirius1Input" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SLI32</Value>
+    </Setting>
+    <Setting Name="MasterVolumeCustom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MVL</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
